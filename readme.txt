@@ -1,3 +1,4 @@
+
 回顾以前Vue/React的项目结构
 vue项目目录结构
 assets  静态资源文件目录
@@ -24,4 +25,8 @@ src
         5) 可以实现用户的删除操作
         ......
 
+使用方法：
+    yarn add 安装所有依赖
+    开启json-server 端口数据
+    yarn start 启动expo，在模拟器上根据 expo 暴露的端口运行模拟移动端效果
 
